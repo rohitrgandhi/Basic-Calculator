@@ -1,0 +1,12 @@
+.output{
+    margin:1px 0px 30px;
+    border: 2px solid black;
+    display:flex;
+    flex-direction:column;
+    width: 15vw;
+    height:3vw;}
+button{
+    border-radius: 0.5rem;
+    width:fit-content;
+    margin-bottom: 1rem;
+}
